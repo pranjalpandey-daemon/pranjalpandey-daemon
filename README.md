@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Pranjal Pandey (Daemon)  
+# 👋 Hey, I’m Pranjal Pandey
 
 🚀 **Aspiring Backend Developer | AI Enthusiast | DSA Learner**  
 
